@@ -5,7 +5,7 @@
 </h3>
 
 # DeskPad
-A virtual monitor for screen sharing
+A virtual monitor for screen sharing it
 
 <h3 align="center">
   <a href="https://github.com/Stengo/DeskPad/blob/main/screenshot.jpg">
